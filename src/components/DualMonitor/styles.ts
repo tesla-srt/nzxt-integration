@@ -9,7 +9,6 @@ export const Container = styled.div`
   box-sizing: border-box;
   color: #ffffff;
   border-radius: 100%;
-  background: url("https://64.media.tumblr.com/tumblr_lfg5n5isVk1qg4w06o1_500.gif") 33.33% no-repeat;
   
 
   .monitoring {
@@ -19,6 +18,8 @@ export const Container = styled.div`
     width: inherit;
     height: inherit;
     gap: 25px;
+    border-radius: 100%;
+    background: url("https://64.media.tumblr.com/tumblr_lfg5n5isVk1qg4w06o1_500.gif") 33.33% no-repeat;
   }
 
   .info-container {
