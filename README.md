@@ -1,3 +1,7 @@
+My attempt at a dual infographic + GIF on my Kraken Z3
+
+GIFs are choppy at best :(
+
 # nzxt
 [web integrations](https://developer.nzxt.com/) for the NZXT Kraken series.
 
