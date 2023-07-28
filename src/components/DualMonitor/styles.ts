@@ -9,7 +9,8 @@ export const Container = styled.div`
   box-sizing: border-box;
   color: #ffffff;
   border-radius: 100%;
-  background: #000000;
+  background: url("https://64.media.tumblr.com/tumblr_lfg5n5isVk1qg4w06o1_500.gif") 33.33% no-repeat;
+  
 
   .monitoring {
     display: flex;
