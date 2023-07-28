@@ -14,7 +14,7 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    background-color: black;
+     background-image: url("https://64.media.tumblr.com/tumblr_lfg5n5isVk1qg4w06o1_500.gif");
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.6rem;
 }
